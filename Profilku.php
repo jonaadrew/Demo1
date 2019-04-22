@@ -7,7 +7,7 @@
 			<tr>
 				<td><b>Nama Lengkap</b></td>
 				<td><b>:</b></td>
-				<td> Ishad Anshar</td>
+				<td> Jonathan Andrew </td>
 			</tr>
 			<tr>
 				<td><b>Tempat,Tanggal Lahir</b></td>
